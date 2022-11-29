@@ -1,0 +1,2 @@
+В консоли:
+cd путь(C:\Users\Vlad\Desktop\PF\Lesson2) - пример

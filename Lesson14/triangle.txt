@@ -1,0 +1,11 @@
+def main():
+    a = int(input("Enter your num"))
+    b = a - a
+    string = input("How you want you triangle be like?")
+    while (b<a):
+        print(string * b)
+        b = b + 1
+    while (a>0):
+        print(string * a)
+        a = a - 1
+main()
